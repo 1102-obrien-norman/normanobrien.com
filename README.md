@@ -23,17 +23,15 @@ Plain HTML and CSS, with no build step or framework. Hosted free on GitHub Pages
 Search `index.html` for `EDIT:` to find each spot.
 
 - **Headshot:** add a photo named exactly `headshot.jpg` to this folder (see below). Until you do, your initials show in its place.
-- Email address (`hello@normanobrien.com`; see step 6 below to make it work for free)
 - The tool's name, once you pick one (it's currently called "AI visibility tracker")
-- Specifics for your capstone (data source, methods, results)
 - What you did at the Michael J. Fox Foundation
 - Graduation year, if it isn't 2027
 - If you change your email or name, also update `llms.txt`
 
 ### Headshot tips
 
-- **Square crop**, face centered, with some space above your head. The site shows it as a circle.
-- **About 600 × 600 pixels and under 200 KB.** Big photos slow the page down, and speed counts for SEO. squoosh.app is a free tool that resizes and compresses in your browser.
+- **Square crop**, face centered, with some space above your head. The site shows it as a large rounded square.
+- **About 400–800 pixels square and under 200 KB.** Big photos slow the page down, and speed counts for SEO. squoosh.app is a free tool that resizes and compresses in your browser.
 - A plain or softly blurred background, good natural light, and a collared shirt or whatever you'd wear to meet a client.
 - Use the same photo as LinkedIn so people recognize you across both.
 
@@ -91,12 +89,13 @@ Visit https://normanobrien.com. `www.normanobrien.com` will redirect to it autom
 
 ### 6. Free email at your domain (optional, recommended)
 
-A `hello@normanobrien.com` address looks much more professional to clients than a Gmail.
+The site currently lists your personal email (norman.o12@icloud.com). If you later want an address at your domain, such as contact@normanobrien.com:
 
 1. In Namecheap **Advanced DNS**, under **Mail Settings**, choose **Email Forwarding**.
-2. On the **Domain** tab, find **Redirect Email** and add `hello` → your personal Gmail.
+2. On the **Domain** tab, find **Redirect Email** and add `contact` → your personal email.
+3. Update the address in `index.html` and `llms.txt`.
 
-Mail sent to hello@normanobrien.com now lands in your Gmail. (To *reply* from that address you can set up Gmail's "Send mail as", or keep replying from Gmail.)
+For a full mailbox you can send from, Namecheap Private Email (Starter) is the simplest add-on.
 
 ### 7. Get indexed (practice what you preach)
 

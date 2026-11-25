@@ -1,24 +1,27 @@
 # Norman O'Brien
 
-> SEO and generative engine optimization (GEO) consultant. Helps businesses get found in search engine results and cited in AI-generated answers. Computer science student (artificial intelligence focus) at Oregon State University.
+> Computer science student at Oregon State University (artificial intelligence focus, Class of 2027) with minors in Mathematics, Statistics, and Business Information Systems. Builds NLP pipelines, data dashboards, and search tools, and runs a small SEO and generative engine optimization (GEO) consultancy. Open to internships and SEO/GEO clients starting December 2026.
 
-## Services
+## Projects
+
+- Natural Language Processing of Financial Disclosures (senior capstone, four-person team; Norman built the Google Gemini API summarization stage): pipeline that pulls SEC 10-K and 8-K filings via Wharton Research Data Services (WRDS), removes HTML, XBRL, and boilerplate, chunks long filings, uses BERTopic to discover topics across 30,000+ filings, and uses the Google Gemini API to summarize each topic cluster in plain English (including non-English filings). Outputs CSV; optional DeepL translation. Repository: https://github.com/rrithik/Natural-Language-Processing-of-Financial-Disclosures
+- AI visibility tracker (in development): sends the same prompts to ChatGPT, Perplexity, Gemini, Claude, Google AI Overviews and AI Mode, plus Google and Bing results; records whether a business is named, its position, and whether its site is cited; produces client reports with before-and-after comparisons and a range on every metric
+
+## Experience
+
+- Data Analytics Intern, The Michael J. Fox Foundation for Parkinson's Research (June to October 2026): built data visualizations for dashboards in Domo and Brandwatch; ran a four-month SEO and GEO analysis of how searches changed and wrote a report with recommendations for more exposure on search engines and in AI-generated answers
+- Founder, SEO & GEO consulting (2026 to present)
+
+## SEO & GEO consulting services
 
 - Visibility audit: how a site performs in search results and AI answers, with fixes ranked by impact
 - Technical fixes: page speed, indexing, structured data, site structure
-- Content built to be cited: pages that answer real customer questions clearly enough to rank and be quoted
-- Tracking: monitoring rankings and AI mentions over time
-
-## Background
-
-- B.S. Computer Science (Artificial Intelligence), Oregon State University, minors in Mathematics, Statistics, and Business Information Systems
-- Data Analytics Intern, The Michael J. Fox Foundation for Parkinson's Research (June to October 2026)
-- Capstone: natural language processing analysis of corporate financial disclosures
-- Building an AI visibility tracker: sends the same prompts to ChatGPT, Perplexity, Gemini, Claude, Google AI Overviews and AI Mode, plus Google and Bing results; records whether a business is named, its position, and whether its site is cited; reports each metric with a range to separate real change from run-to-run variation
+- Content built to be cited by AI assistants
+- Before-and-after tracking
 
 ## Contact
 
 - Website: https://normanobrien.com/
-- Email: hello@normanobrien.com
+- Email: norman.o12@icloud.com
 - LinkedIn: https://www.linkedin.com/in/norman-o-brien-0527b1223/
 - GitHub: https://github.com/1102-obrien-norman
