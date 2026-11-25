@@ -1,0 +1,24 @@
+# Norman O'Brien
+
+> SEO and generative engine optimization (GEO) consultant. Helps businesses get found in search engine results and cited in AI-generated answers. Computer science student (artificial intelligence focus) at Oregon State University.
+
+## Services
+
+- Visibility audit: how a site performs in search results and AI answers, with fixes ranked by impact
+- Technical fixes: page speed, indexing, structured data, site structure
+- Content built to be cited: pages that answer real customer questions clearly enough to rank and be quoted
+- Tracking: monitoring rankings and AI mentions over time
+
+## Background
+
+- B.S. Computer Science (Artificial Intelligence), Oregon State University, minors in Mathematics, Statistics, and Business Information Systems
+- Data Analytics Intern, The Michael J. Fox Foundation for Parkinson's Research (June to October 2026)
+- Capstone: natural language processing analysis of corporate financial disclosures
+- Building an AI visibility tracker: sends the same prompts to ChatGPT, Perplexity, Gemini, Claude, Google AI Overviews and AI Mode, plus Google and Bing results; records whether a business is named, its position, and whether its site is cited; reports each metric with a range to separate real change from run-to-run variation
+
+## Contact
+
+- Website: https://normanobrien.com/
+- Email: hello@normanobrien.com
+- LinkedIn: https://www.linkedin.com/in/norman-o-brien-0527b1223/
+- GitHub: https://github.com/1102-obrien-norman
